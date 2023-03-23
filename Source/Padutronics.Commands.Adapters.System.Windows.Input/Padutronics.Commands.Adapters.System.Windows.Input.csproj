@@ -15,4 +15,7 @@
         <RepositoryUrl>https://github.com/Padutronics/Padutronics.Commands.Adapters.System.Windows.Input</RepositoryUrl>
         <RepositoryType>Git</RepositoryType>
     </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Padutronics.Commands" Version="0.1.0" />
+    </ItemGroup>
 </Project>
